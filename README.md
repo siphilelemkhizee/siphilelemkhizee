@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASP.NET third year project<br>👯 I’m looking to collaborate on projects related to infosec<br>🌱 I’m currently learning networking and infosec<br>💬 Ask me about anything under the sun
+🔭 Currently learning Mobile App Development & AI-powered Customer Assistance.<br>📊 Working on Portfolio Optimisation, Blockchain-based Supply Chain Finance, and Insider Threat Detection.<br>🌱 Honours student passionate about Cybersecurity, Fintech, and Software Development.<br>⚡ Gamer at heart.
 
 
 ## 🌐 Socials:
