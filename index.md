@@ -24,6 +24,21 @@ Welcome to my personal GitHub portfolio site! I'm passionate about technology, c
 ## 🧠 Projects
 
 I'll be adding some cool tech projects here soon — stay tuned!
+## 🧠 Projects
+
+### 🔹 [The Bulletin](https://github.com/siphilelemkhizee/thebulletin)
+An Android app that helps is used for reading news using Jsoup and NewsAPI
+
+---
+
+### 🔹 [Routley Mobility App](https://github.com/siphilelemkhizee/Routley)
+An Android app that helps commuters find optimized taxi rank routes using Google Maps and Firebase.
+
+---
+
+### 🔹 [Appointment Booking Web App](https://github.com/siphilelemkhizee/Prohealth-FrontEnd-And-Web-Sytem)
+An ASP.NET web app that lets users book doctor appointments with real-time slot management and admin dashboard.
+
 
 ```bash
 $ git clone https://github.com/siphilelemkhizee
